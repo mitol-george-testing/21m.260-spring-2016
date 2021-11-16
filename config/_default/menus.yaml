@@ -1,0 +1,47 @@
+leftnav:
+- identifier: 772eca68-1547-a7ad-008d-5103a5eb2a20
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 10
+- identifier: a96c8a63-a949-dfcc-0bc1-48f11c0092d5
+  name: Instructor Insights
+  url: /pages/instructor-insights/
+  weight: 20
+- identifier: 5b687e41-15ad-9ad0-cdaa-bd4d987abad3
+  name: Teaching Critical Thinking through Music
+  parent: a96c8a63-a949-dfcc-0bc1-48f11c0092d5
+  url: /pages/instructor-insights/teaching-critical-thinking-through-music
+  weight: 30
+- identifier: f73570b1-e652-672b-ea02-c0d949d0aa06
+  name: 'Attentive Listening, like Yoga, is about the Practice '
+  parent: a96c8a63-a949-dfcc-0bc1-48f11c0092d5
+  url: /pages/instructor-insights/deep-listening-like-yoga-is-about-the-practice
+  weight: 40
+- identifier: ad589021-6b02-a9fd-052d-3594e5f241a9
+  name: Warming Up to Spark Good Classroom Conversations
+  parent: a96c8a63-a949-dfcc-0bc1-48f11c0092d5
+  url: /pages/instructor-insights/warming-up-to-spark-good-classroom-conversations
+  weight: 50
+- identifier: 984fb2d1-fc0a-facb-7a87-f039b684923c
+  name: On Teaching Writing in Musicology
+  parent: a96c8a63-a949-dfcc-0bc1-48f11c0092d5
+  url: /pages/instructor-insights/on-teaching-writing-in-musicology
+  weight: 60
+- identifier: 63614128-4202-e2a6-5bf9-ae0b155dacf8
+  name: Traditional in Scope, Critical in Approach
+  parent: a96c8a63-a949-dfcc-0bc1-48f11c0092d5
+  url: /pages/instructor-insights/traditional-in-scope-progressive-in-approach
+  weight: 70
+- identifier: f74cf962-23a4-a668-7567-936b9f1fc2ee
+  name: Positioning Modern Music as a Living Tradition
+  parent: a96c8a63-a949-dfcc-0bc1-48f11c0092d5
+  url: /pages/instructor-insights/positioning-modern-music-as-a-living-tradition
+  weight: 80
+- identifier: dead46c6-abd8-d1b5-aea4-b0d71df4de9f
+  name: Class Sessions
+  url: /pages/class-sessions
+  weight: 90
+- identifier: 93cdbe64-eedd-b2d9-1fbe-96122e672173
+  name: Papers
+  url: /pages/papers
+  weight: 100
